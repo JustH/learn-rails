@@ -1,4 +1,4 @@
-learn-rails
+Learning Rails
 ===========
 
-learn rails tutorial project
+Learning Rails with a tutuorial from the RailsApps project.
